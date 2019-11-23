@@ -1,6 +1,6 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Stacy Lopez's Website
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+Welcome to my website! I'm so excited for you to take a dive into my world! 
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+![Description of Image](img/screenshot.png)
